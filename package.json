@@ -1,0 +1,19 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "Issue tracking app built using the MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyobABN/issue-tracker.git"
+  },
+  "author": "Vasan Subramanian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EyobABN/issue-tracker/issues"
+  },
+  "homepage": "https://github.com/EyobABN/issue-tracker#readme"
+}
